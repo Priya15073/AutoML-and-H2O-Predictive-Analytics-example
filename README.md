@@ -1,6 +1,6 @@
 # AutoML-and-H2O-Predictive Analytics-example
 A small example of using H2O's AutoML to load data, preprocess it.
-Then use the AutoML exploration and leaderboard on the dataframe to predict the important variables for a particular decision and model employment.<br />
+Then use the AutoML leaderboard and ensemble (model learning)exploration ;  on the dataframe to predict the important variables for a particular decision and model employment.<br />
 <br />
 About the data:<br />
    The data is related with direct marketing campaigns of a Portuguese banking institution. 
